@@ -7,3 +7,4 @@
 ①データセットをC:\GNdata/00,01,10,11 に用意<br>
 ②train_neuralnet.py をRun<br>
 Saved network parameters! 正答率　が表示される<br>　
+![ネットワークモデル](./network.jpg)

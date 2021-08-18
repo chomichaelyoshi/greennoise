@@ -6,5 +6,5 @@
 # 機械学習の手順 
 ①データセットをC:\GNdata/00,01,10,11 に用意
 ②training
-  train_neuralnet.py をRun
-      Saved network parameters! 正答率　が表示される　
+train_neuralnet.py をRun
+Saved network parameters! 正答率　が表示される　
